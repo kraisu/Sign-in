@@ -7,7 +7,7 @@ btnSignIn.onclick = function () {
   const password1 = document.querySelector("#password1").value;
 
   const tiedot = document.querySelector("#tiedot");
-  tiedot.innerHTML = `${username} ${password1}`;
+  tiedot.innerHTML = `Username is ${username}, password is ${password1}`;
 
   return false;
 };

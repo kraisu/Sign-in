@@ -1,3 +1,30 @@
 #tiedot {
   color: red;
 }
+
+#h1 {
+  height: 30px;
+  margin-left: 1000px;
+  border-radius: 8px;
+  font-size: 16px;
+  margin-top: 1px;
+}
+
+#btnSignIn {
+  height: 30px;
+  margin-top: 1px;
+  border-radius: 8px;
+  font-size: 16px;
+}
+#username {
+  height: 25px;
+  border-radius: 8px;
+  font-size: 13px;
+}
+
+#password1 {
+  height: 25px;
+  margin-top: 10px;
+  border-radius: 8px;
+  font-size: 13px;
+}
